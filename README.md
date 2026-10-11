@@ -1,7 +1,7 @@
 # Hi there, nice to see you! 😎
 
 [![Email](https://img.shields.io/badge/email-cezar@cezi.lol-red?style=flat&logo=gmail)](mailto:w2c.cezar@gmail.com)
-[![Discord](https://img.shields.io/badge/discord-cezard.ll-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1253019310922666005)
+[![Discord](https://img.shields.io/badge/discord-cezar.dll-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1253019310922666005)
 ![Visits](https://komarev.com/ghpvc/?username=cezardll&label=Total+Visits&color=brightgreen)
 
 ---
