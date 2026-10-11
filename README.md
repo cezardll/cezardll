@@ -11,7 +11,7 @@ I'm **Cezar**, a developer based in Romania. I like building efficient, user-fri
 
 ---
 
-## 🧬 Currently working on: 「helix」
+## 🧬 Currently working on:「helix」
 
 ![Status](https://img.shields.io/badge/status-in_active_development-8b5cf6?style=flat)
 ![Stack](https://img.shields.io/badge/stack-React_·_Node.js_·_Supabase-8b5cf6?style=flat)
@@ -33,7 +33,7 @@ What I'm building:
 - 🗂️ Personal research tools: collections, notes, history, and saved research
 - 🧪 Data from open sources such as ChEMBL, PubChem, UniProt, Reactome, and PubMed
 
-The principle behind it: **traceability over appearance, evidence over speculation.** 「helix」 is updated constantly as I build it.
+The principle behind it: **traceability over appearance, evidence over speculation.**「helix」 is updated constantly as I build it.
 
 ---
 
@@ -48,7 +48,7 @@ The principle behind it: **traceability over appearance, evidence over speculati
 ## 🎯 Right now
 
 - 📖 Studying for **EN VIII** (Evaluarea Națională, clasa a VIII-a)
-- 🧬 Building and constantly improving **「helix」**
+- 🧬 Building and constantly improving**「helix」**
 - 🤖 Carrying robotics and teamwork lessons from **Infinity Bolts 19093** into everything I make
 - 🌱 Learning more about databases, data visualization, and scientific data
 
