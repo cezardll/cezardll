@@ -48,7 +48,7 @@ The principle behind it: **traceability over appearance, evidence over speculati
 ## 🎯 Right now
 
 - 📖 Studying for **EN VIII** (Evaluarea Națională, clasa a VIII-a)
-- 🧬 Building and constantly improving**「helix」**
+- 🧬 Building and constantly improving **「helix」**
 - 🤖 Carrying robotics and teamwork lessons from **Infinity Bolts 19093** into everything I make
 - 🌱 Learning more about databases, data visualization, and scientific data
 
