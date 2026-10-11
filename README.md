@@ -11,12 +11,12 @@ I'm **Cezar**, a developer based in Romania. I like building efficient, user-fri
 
 ---
 
-## 🧬 Currently working on: helix
+## 🧬 Currently working on: 「helix」
 
 ![Status](https://img.shields.io/badge/status-in_active_development-8b5cf6?style=flat)
 ![Stack](https://img.shields.io/badge/stack-React_·_Node.js_·_Supabase-8b5cf6?style=flat)
 
-**helix** is a scientific pharmacology and molecular-mechanism research platform. It connects drugs, compounds, molecular targets, pathways, effects, publications, and evidence into one interactive research environment, so you can see not just *what* a drug does, but *how* the biology connects.
+**「helix」** is a scientific pharmacology and molecular-mechanism research platform. It connects drugs, compounds, molecular targets, pathways, effects, publications, and evidence into one interactive research environment, so you can see not just *what* a drug does, but *how* the biology connects.
 
 ```text
 Drug → Target → Pathway → Cellular effect → Physiological effect
@@ -33,7 +33,7 @@ What I'm building:
 - 🗂️ Personal research tools: collections, notes, history, and saved research
 - 🧪 Data from open sources such as ChEMBL, PubChem, UniProt, Reactome, and PubMed
 
-The principle behind it: **traceability over appearance, evidence over speculation.** helix is updated constantly as I build it.
+The principle behind it: **traceability over appearance, evidence over speculation.** 「helix」 is updated constantly as I build it.
 
 ---
 
@@ -41,14 +41,14 @@ The principle behind it: **traceability over appearance, evidence over speculati
 
 - **Age 12:** wrote my first code and fell in love with building things.
 - **Age 13:** joined **Infinity Bolts #19093**, an FTC (FIRST Tech Challenge) robotics team, where I learned to build and program robots as part of a team.
-- **Now:** building **helix** while studying for **Evaluarea Națională (clasa a VIII-a)**, balancing school with a big project I care about.
+- **Now:** building **「helix」** while studying for **Evaluarea Națională (clasa a VIII-a)**, balancing school with a big project I care about.
 
 ---
 
 ## 🎯 Right now
 
 - 📖 Studying for **EN VIII** (Evaluarea Națională, clasa a VIII-a)
-- 🧬 Building and constantly improving **helix**
+- 🧬 Building and constantly improving **「helix」**
 - 🤖 Carrying robotics and teamwork lessons from **Infinity Bolts 19093** into everything I make
 - 🌱 Learning more about databases, data visualization, and scientific data
 
@@ -84,4 +84,4 @@ The principle behind it: **traceability over appearance, evidence over speculati
 
 ## 📫 Get in touch
 
-Want to talk about helix, robotics, or code? Email me or find me on Discord using the badges at the top.
+Want to talk about 「helix」, robotics, or code? Email me or find me on Discord using the badges at the top.
